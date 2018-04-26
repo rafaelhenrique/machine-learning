@@ -1,1 +1,1 @@
-# Machine learning examples (with Python)
+# Exemplos de algoritmos de aprendizado de máquina (com Python)
